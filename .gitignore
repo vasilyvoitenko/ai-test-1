@@ -3,3 +3,4 @@ __pycache__/
 .env
 last_output.json
 last_gate.json
+last_story_gate.json
